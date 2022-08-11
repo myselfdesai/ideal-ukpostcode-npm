@@ -1,6 +1,6 @@
 {
   "name": "ideal-ukpostcode",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "package supports validating and formatting postcodes for the UK",
   "main": "index.js",
   "scripts": {
