@@ -1,0 +1,24 @@
+{
+  "name": "ideal-ukpostcode",
+  "version": "0.0.1",
+  "description": "package supports validating and formatting postcodes for the UK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myselfdesai/ideal-ukpostcode-npm.git"
+  },
+  "keywords": [
+    "ideal postcode",
+    "postcode validator",
+    "uk postcode"
+  ],
+  "author": "AMAR DESAI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myselfdesai/ideal-ukpostcode-npm/issues"
+  },
+  "homepage": "https://github.com/myselfdesai/ideal-ukpostcode-npm#readme"
+}
